@@ -1,7 +1,5 @@
 # ojichat-slack-bot
 
-ｽﾗｯｸに発言しちゃうﾖ:exclamation::kissing_heart:
-
 https://github.com/greymd/ojichat
 
 ## Install
