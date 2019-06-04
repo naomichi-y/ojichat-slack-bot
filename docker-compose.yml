@@ -1,0 +1,10 @@
+version: '3'
+services:
+  ojibot:
+    build:
+      context: .
+    env_file: .env
+    volumes:
+      - .:/app:cached
+      - /app/bin
+      - /var/run/docker.sock:/var/run/docker.sock
