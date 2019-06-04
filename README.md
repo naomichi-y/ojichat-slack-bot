@@ -15,7 +15,7 @@ $ docker-compose build
 $ docker-compose run --rm ojibot /app/bin/ojibot
 ```
 
-## Notify Slack (Cron)
+## Notify Slack regularly
 
 ```
 $ docker-compose up -d
